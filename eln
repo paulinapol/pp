@@ -1,11 +1,12 @@
  {
-  "Students": [
-  
-			  { "Name":"Amit Goenka" ,
-  "Major":"Physics" }, 
-			  { "Name":"Smita Pallod" ,
-  "Major":"Chemistry" }, 
-			  { "Name":"Rajeev Sen" , 
-  "Major":"Mathematics" }
-			  ]
-			  }
+  "Dogs": [
+         	  {
+  "category": "Companion dogs",
+  "name": "Chihuahua"
+         	  },
+         	  {
+  "category": "Hounds",
+  "name": "Foxhound"
+         	  }
+         	  ]
+         	  }
