@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Moja strona testowa</title>
+  </head>
+  <body>
+    <h1>Elektroniczny dziennik laboratoryjny</h1>
+    <h2>Mój nagłówek górnego poziomu</h2>
+    <h3>Mój nagówek</h3>
+    <h4>Mój podnagłówek</h4>
+    <img src="images/eln.png" alt="Mój obrazek z dziennikiem elektronicznym">
+    <p> Każdy naukowiec prowadzi <strong>dziennik laboratoryjny</strong>, w którym opisuje swoje doświadczenia. Ja i mama również mamy zeszyt z naszymi notatkami z eksperymentów. Dlaczego prowadzimy dziennik laboratoryjny? Powodów jest kilka, ale najważniejszy z nich, to możliwość ponownego wykonania eksperymentu i porównania wyników.
+Wiecie już, dlaczego prowadzenie dziennika laboratoryjnego jest ważne. Teraz pokażę wam, jak my to robimy</p>
+    <ul>
+      <li> opisy wykonujemy na bieżąco lub zaraz po zakończonym doświadczeniu, gdy jeszcze wszystko dokładnie pamiętamy</li>
+      <li> zapisujemy datę i tytuł</li>
+      <li> notujemy, co było nam potrzebne do zrobienia doświadczenia</li>
+    </ul>
+    <p> Lista numerowana</p>
+    <ol>
+      <li> rysujemy schematy</li>
+      <li> opisujemy swoje obserwacje (np.: zmiana koloru, wydzielanie się pęcherzyków gazu)</li>
+      <li> próbujemy wyciągnąć wnioski z naszych obserwacji</li>
+      <li> mama zapisuje wyjaśnienia zachodzących reakcji i zjawisk fizycznych </li>
+    </ol>
+    <p> Materiał pobrany ze strony</p>
+    <a href="https://eksperymentyemilki.blogspot.com/2018/09/dziennik-laboratoryjny.html">Eksperymenty Emilki</a>
+  </body>
+</html> 
